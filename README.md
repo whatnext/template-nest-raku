@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/whatnext/template-nest-raku/workflows/test/badge.svg)](https://github.com/whatnext/template-nest-raku/actions)
+
 NAME
 ====
 
