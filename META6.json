@@ -1,0 +1,24 @@
+{
+  "authors": [
+    "Tom Gracey"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "manipulate a generic template structure via a Raku hash",
+  "license": "Artistic-2.0",
+  "name": "Template::Nest",
+  "perl": "6.d",
+  "provides": {
+    "Template::Nest": "lib/Template/Nest.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
