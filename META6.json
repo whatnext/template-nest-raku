@@ -5,6 +5,7 @@
   "build-depends": [
   ],
   "depends": [
+    "Data::Dump"
   ],
   "description": "manipulate a generic template structure via a Raku hash",
   "license": "Artistic-2.0",
@@ -19,6 +20,7 @@
   "tags": [
   ],
   "test-depends": [
+    "Data::Dump"
   ],
-  "version": "0.01"
+  "version": "0.02"
 }
