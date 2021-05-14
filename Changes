@@ -1,8 +1,9 @@
 Revision history for Template-Nest
 
-{{$NEXT}}
-
 0.01  2021-05-11T12:23:06+02:00
     - Initial version
-0.02  2021-05-14T10:43:15+02:00
+
+{{$NEXT}}
+
+0.1.1  2021-05-14T11:59:37+02:00
     - Correct missing package dependency

@@ -1,7 +1,7 @@
 use v6;
 use Data::Dump;
 
-class Template::Nest:ver<0.02> {
+class Template::Nest:ver<0.1.1> {
     has Str $.template_dir is rw;
     has Str $.template_ext is rw = '.html';
     has %.template_hash is rw;
