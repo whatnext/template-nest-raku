@@ -685,9 +685,3 @@ COPYRIGHT AND LICENSE
 Copyright (C) 2021 by Tom Gracey
 
 This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.20.1 or, at your option, any later version of Perl 5 you may have available.
-
-cut
-===
-
-
-
